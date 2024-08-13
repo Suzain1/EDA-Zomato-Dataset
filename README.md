@@ -4,7 +4,7 @@
 This repository contains a Python script that performs Exploratory Data Analysis (EDA) on a Zomato dataset. The goal of this analysis is to understand the distribution of various features, clean the data, and extract meaningful insights through visualization.
 
 🛠️ Features
-1. Data Loading 📂:
+1. Data Loading :
     Load datasets (zomato.csv and Country-Code.xlsx) using pandas.
 2. Initial Exploration 🔍:
     Inspect dataset structure and identify missing values.
